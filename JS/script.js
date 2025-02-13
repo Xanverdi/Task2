@@ -13,7 +13,7 @@ async function GetDatas() {
                             <h1 class="cc1">${datas.data[i].companyName}</h1>
                             <h3>${datas.data[i].contactName}</h3>
                             <h5>${datas.data[i].contactTitle}</h5>
-                            <p>${datas.data[i].address.street}
+                            <p>${datas.data[i].address.street}</p>
                         </div>
                         <div class="cardbuttom">
                             <button>
